@@ -1,1 +1,3 @@
--Global AI Job Market & Salary Trends 2025 looking much at Data-driven exploration of global AI job roles, salaries, experience levels, and remote work trends using Kaggle's 2025 AI job dataset.
+# AI JOB ANALYSIS
+
+Global AI Job Market & Salary Trends 2025 looking much at Data-driven exploration of global AI job roles, salaries, experience levels, and remote work trends using Kaggle's 2025 AI job dataset.
